@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a94c8533-aaae-4c56-b3c3-43d75d2d953b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Todo/JavaScript.js" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2OurNn3mCBHxtbL1y8FL1GuQXU4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Raúl Delgado/Documents/UNIVERSIDAD/Multimeida/TrabajoMultimediaV2.0&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Raúl Delgado\Documents\UNIVERSIDAD\Multimeida\TrabajoMultimediaV2.0\Todo\Imagenes" />
+      <recent name="C:\Users\Raúl Delgado\Documents\UNIVERSIDAD\Multimeida\TrabajoMultimediaV2.0\Todo\Video" />
+      <recent name="C:\Users\Raúl Delgado\Documents\UNIVERSIDAD\Multimeida\TrabajoMultimediaV1.1\video" />
+      <recent name="C:\Users\Raúl Delgado\Documents\UNIVERSIDAD\Multimeida\TrabajoMultimediaV1.1\Todo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="TrabajoMultimediaV1.1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="TrabajoMultimediaV1.1" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a94c8533-aaae-4c56-b3c3-43d75d2d953b" name="Changes" comment="" />
+      <created>1682421284986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682421284986</updated>
+      <workItem from="1682421285980" duration="4890000" />
+      <workItem from="1682588161428" duration="5555000" />
+      <workItem from="1682604771420" duration="12260000" />
+      <workItem from="1682855711862" duration="4725000" />
+      <workItem from="1682862180364" duration="12942000" />
+      <workItem from="1683037584341" duration="15452000" />
+      <workItem from="1683451081681" duration="6392000" />
+      <workItem from="1683477673763" duration="3286000" />
+      <workItem from="1683630158279" duration="356000" />
+      <workItem from="1683630525507" duration="348000" />
+      <workItem from="1683630890023" duration="65000" />
+      <workItem from="1683630974896" duration="1534000" />
+      <workItem from="1683635063183" duration="939000" />
+      <workItem from="1683636146153" duration="621000" />
+      <workItem from="1683822682352" duration="10050000" />
+      <workItem from="1684091650441" duration="10799000" />
+      <workItem from="1684160012496" duration="1281000" />
+      <workItem from="1684234102372" duration="5280000" />
+      <workItem from="1684246557895" duration="3428000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
